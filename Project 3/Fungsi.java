@@ -38,7 +38,7 @@ public class Fungsi {
        /**
      * Fungsi untuk membuat deret fibonacci dari 0 sampai batas yang ditentukan oleh user. fungsi ini menggunakan arraylist untuk menampung nilai outpunya di setiap perulangan sebelum ditampilkan. Arraylist digunakan karena lebih mudah digunakan dari pada array biasa dan tidak harus menentukan ukurannya.
      * @param batas parameter batas dari fungsi ini berisikan inputan dari user dimana inputan tersebut adalah batas dari deret fibonacci yang akan di cetak.
-     * @return fungsi ini mengembalikan nilai berupa deret fibonacci yang ditampung ke dalam list, list sendiri menampung nilai yang di dapat dari setiap perulangan yang dilakukan di dalam fungsi ini.
+     * @return fungsi ini mengembalikan nilai berupa deret fibonacci yang ditampung ke dalam list, list sendiri menampung nilai yang di dapat dari setiap perulangan yang dilakukan di dalam fungsi ini
      */
     public List<Integer> fibonacci(int batas) {
         List<Integer> list = new ArrayList<Integer>();

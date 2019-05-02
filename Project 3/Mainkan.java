@@ -16,7 +16,7 @@ public class Mainkan {
 
     public static void main(String[] args) {
         View view = new View();        
-        System.out.println("Deret Bilangan Prima : \n"+view.primaOut(50));
+        System.out.println("Deret Bilangan Prima : \n "+view.primaOut(50));
         System.out.println("Deret Fibonacci : \n"+view.fibbonacciOut(24));
 
     }

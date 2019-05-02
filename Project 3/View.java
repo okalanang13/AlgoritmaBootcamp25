@@ -13,7 +13,7 @@ public class View {
     Fungsi fungsi = new Fungsi();
     /**
      * Membuat kondisi yang berfungsi untuk mengantisipasi jika inputan yang dimasukan kurang dari sama dengan 1.
-     * @param batas parameter batas berisi inputan dimana inputan tersebut tidak boleh dibawah 1 atau 1 itu sendiri
+     * @param batas parameter batas berisi inputan dimana inputan tersebut tidak boleh dibawah 1 atau 1 itu sendiri.
      * @return mengembalikan deret bilangan prima yang diambil dari fungsi primaOut.
      */
     public String primaOut(int batas) {
